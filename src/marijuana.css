@@ -503,6 +503,10 @@ button{
   /* background: #fafafa url("img/icon-select.png") no-repeat 90% 50%; */
 }
 
+#state-selector {
+  border-radius: 3px;
+}
+
 .select-style select {
   background: var(--background1);
     content: "";
